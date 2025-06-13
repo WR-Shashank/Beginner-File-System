@@ -35,12 +35,12 @@ All operations happen in memory (RAM), and the system structure is built using a
 python3 beginner_file_system.py
 ```
 
-## 🧠 Learning Goals
+##  Learning Goals
 - Practice data structures (tree)
 - Understand folder navigation logic
 - Handle user input and parsing commands
 
-## 📘 Sample Session
+## Sample Session
 ```
 $ folder projects
 $ go projects
