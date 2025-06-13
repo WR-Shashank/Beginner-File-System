@@ -28,7 +28,7 @@ All operations happen in memory (RAM), and the system structure is built using a
 | `path`          | Print full current directory path          |
 | `exit`          | Exit the shell                             |
 
-## 💻 How to Run
+##  How to Run
 1. Save the code in a file called `beginner_file_system.py`
 2. Open a terminal and run:
 ```bash
